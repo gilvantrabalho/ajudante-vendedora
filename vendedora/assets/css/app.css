@@ -1,0 +1,9 @@
+:root {
+    --bg-fundo: #F0F8FF !important;
+    --bg-light: #f8f9fa !important;
+    --bg-secondary: #6c757d !important;
+}
+
+.nav-link.active {
+    font-weight: 500 !important;
+}
